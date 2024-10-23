@@ -1,0 +1,11 @@
+*{
+  background: #444;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+}
