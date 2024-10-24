@@ -25,4 +25,4 @@ A brief description of your project and its purpose.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Repo_new.git
+   git clone https://github.com/username/repo_name.git
